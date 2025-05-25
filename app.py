@@ -8,7 +8,7 @@ import wikipedia
 import folium
 from streamlit_folium import st_folium
 from geopy.geocoders import Nominatim
-from Tourist_App.utils import load_excel_data, get_weather, get_weather_forecast, get_city_recommendations
+from utils import load_excel_data, get_weather, get_weather_forecast, get_city_recommendations
 
 # Page Config
 st.set_page_config(
