@@ -1,16 +1,41 @@
 # 🇮🇳 **Indian Cities Explorer** 🌍
 
-A **Streamlit** web application that provides **weather information**, **tourist spots**, and **food recommendations** for **Indian cities**.
+A **Streamlit** web application that provides detailed information for Indian cities, including weather, tourist attractions, and food recommendations.  
 
 ---
 
-## 🛠️ **Features**
+## ✨ Features
 
-- 🌦️ **Real-time weather data** using the OpenWeatherMap API
-- 🏰 **Tourist attractions** for major Indian cities
-- 🍽️ **Local food recommendations** (breakfast and dinner spots)
-- 🎨 **Interactive user interface** with **Streamlit**
-- 🗺️ **City name normalization** for better matching
+- **🌡️ Weather Information**  
+  Displays current weather of the city:
+  - Temperature (°C)  
+  - Feels like  
+  - Weather conditions  
+  - Humidity  
+  - Wind speed  
+  - Pressure  
+  - 📈 5-Day Weather Forecast (graph)
+
+- **🏛️ Tourist Attractions**  
+  Shows top tourist spots with brief descriptions and accessibility details. Example for Mumbai:  
+  1. **Gateway of India** – Arch-monument completed in 1924.  
+  2. **Marine Drive** – 3 km promenade known as the Queen's Necklace.  
+  3. **Elephanta Caves** – Cave temples carved out of rock on Elephanta Island.
+
+- **🍳 Top Breakfast Spots**  
+  Lists the top 3 breakfast restaurants with map links:
+  - Ram Ashraya, Matunga 📍 Map  
+  - Cafe Madras, Matunga 📍 Map  
+  - Kyani & Co., Marine Lines 📍 Map
+
+- **🍽️ Top Dinner Spots**  
+  Lists the top 3 dinner restaurants with map links:
+  - Aaswad, Dadar 📍 Map  
+  - Sarvi, Byculla 📍 Map  
+  - Candies, Bandra 📍 Map
+
+- **📍 Location & Navigation**  
+  Provides map links for all tourist spots and restaurants for easy navigation.
 
 ---
 
@@ -70,9 +95,9 @@ For any questions, feel free to reach out open an issue in the GitHub repository
 
 ---
 
-### 🔗 **Links**
+### 🔗 **Website Links**
 
-- [GitHub Repository](https://github.com/omreddy45/Tourist-Guide-App)
+- [Website](https://tourist-guide.streamlit.app/)
 
 ---
 
